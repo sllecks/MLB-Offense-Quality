@@ -3,3 +3,5 @@ building-codes-dashboard/backend/.venv/
 building-codes-dashboard/frontend/node_modules/
 building-codes-dashboard/frontend/dist/
 building-codes-dashboard/backend/.env
+__pycache__/
+*.pyc
